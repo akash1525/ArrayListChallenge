@@ -1,1 +1,1 @@
-# MobilePhoneAppUsingArrayLists
+# MobilePhoneSimulatorUsingArrayLists
